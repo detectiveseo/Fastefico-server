@@ -1,51 +1,55 @@
-[
-      {
-        "id": "a5e8d",
-        "picture": "https://phuquoc.intercontinental.com/uploads/phuquoc/Blog/ThaiChef/thai%20chef_rz2.jpg",
-        "name": "আক্কেল আলী",
-        "experience_years": 15,
-        "recipe_count": 200,
-        "likes": 500
-      },
-      {
-        "id": "f2h9z",
-        "picture": "https://images.squarespace-cdn.com/content/v1/55982406e4b014bac5e42764/1618108713969-K91GO30ECLJNWH0W340H/Eunji+Headshot1.jpg",
-        "name": "ময়ান সাধু",
-        "experience_years": 10,
-        "recipe_count": 150,
-        "likes": 300
-      },
-      {
-        "id": "c8r5x",
-        "picture": "https://images.squarespace-cdn.com/content/v1/5f80eb680338c579d4e97350/1620237477593-SLXA0E3RKH785YE86T8D/KhanNazim.jpg?format=1000w",
-        "name": "আাহাইল্যা",
-        "experience_years": 20,
-        "recipe_count": 300,
-        "likes": 700
-      },
-      {
-        "id": "g5p3q",
-        "picture": "https://1.bp.blogspot.com/-MjGyKuBrMxU/Xqr7SZSed0I/AAAAAAAAHLE/h7SQVZH_9rYtZOMQc5JaDEFWdPfqkP4wgCLcBGAsYHQ/s1600/IMG_20200430_221837.jpg",
-        "name": "হেলাল",
-        "experience_years": 8,
-        "recipe_count": 100,
-        "likes": 200
-      },
-      {
-        "id": "j6n4s",
-        "picture": "https://1.bp.blogspot.com/-x_nm-XTrLA0/X8pEHaJzYaI/AAAAAAAABTc/QfZnR8QLqG8ndELpWIBHkh8p1BFWX7GGACLcBGAsYHQ/s1336/%25E0%25A6%25B8%25E0%25A6%25BE%25E0%25A6%259E%25E0%25A7%258D%25E0%25A6%259C%25E0%25A7%2580%25E0%25A6%25AC%2B%25E0%25A6%2595%25E0%25A6%25BE%25E0%25A6%25AA%25E0%25A7%2581%25E0%25A6%25B0.jpg",
-        "name": "করিমু্দ্দিন",
-        "experience_years": 12,
-        "recipe_count": 180,
-        "likes": 400
-      },
-      {
-        "id": "6d2vs",
-        "picture": "https://images.sbs.com.au/dims4/default/61003be/2147483647/strip/true/crop/1250x1760+0+0/resize/1250x1760!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2Fdrupal%2Fyourlanguage%2Fpublic%2Fpodcast_images%2Fpicture1.png",
-        "name": "Samantha Patel",
-        "experience_years": 6,
-        "recipe_count": 80,
-        "likes": 150
-      }
-    ]
-  
+[{
+      "id": "a5e8d",
+      "picture": "https://thumbs.dreamstime.com/b/chef-front-fire-49875137.jpg",
+      "name": "John Doe",
+      "experience_years": 15,
+      "recipe_count": 200,
+      "likes": 500,
+      "bio": "John Doe is a seasoned chef with 15 years of experience in the culinary arts. He specializes in fusion cuisine, blending different cultural flavors to create unique and unforgettable dishes. John is known for his attention to detail and his ability to turn simple ingredients into culinary masterpieces. His passion for cooking shines through in every dish he creates, and his love for food is contagious. When he's not in the kitchen, John enjoys exploring new restaurants and experimenting with new recipes in his own home kitchen."
+    },
+    {
+      "id": "f2h9z",
+      "picture": "https://media.cbs8.com/assets/KFMB/images/d2dafccc-2093-4879-aaa2-b8479e093260/d2dafccc-2093-4879-aaa2-b8479e093260_1920x1080.jpg",
+      "name": "Jane Smith",
+      "experience_years": 10,
+      "recipe_count": 150,
+      "likes": 300,
+      "bio": "Jane Smith is a talented chef with 10 years of experience in the culinary world. She specializes in French cuisine, and her dishes are known for their delicate flavors and elegant presentation. Jane's passion for cooking began at a young age, and she has dedicated her life to perfecting her craft. She believes that food is not just about nourishing the body, but also about feeding the soul. When she's not in the kitchen, Jane enjoys painting and playing the piano."
+    },
+    {
+      "id": "c8r5x",
+      "picture": "https://img.freepik.com/premium-photo/cuisine-real-men-cooking-tasty-food-home-recommend-nice-recipe-culinary-business-brutal-confident-chef-restaurant-hipster-bearded-masculine-chef-cooking-food-kitchen-home-food_474717-16622.jpg",
+      "name": "Maxwell Anderson",
+      "experience_years": 20,
+      "recipe_count": 300,
+      "likes": 700,
+      "bio": "Maxwell Anderson is a renowned chef with 20 years of experience in the culinary industry. He specializes in Italian cuisine, and his dishes are known for their bold flavors and hearty portions. Maxwell's love for cooking began at a young age, and he has spent his life perfecting his craft. He believes that food is a universal language that brings people together, and he takes great pride in creating dishes that are not only delicious, but also bring people joy. When he's not in the kitchen, Maxwell enjoys traveling and spending time with his family."
+    },
+    {
+      "id": "g5p3q",
+      "picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&w=1000&q=80",
+      "name": "Catherine Lee",
+      "experience_years": 8,
+      "recipe_count": 100,
+      "likes": 200,
+      "bio": "Catherine Lee is a talented young chef with 8 years of experience in the culinary arts. She specializes in Asian fusion cuisine, blending traditional Asian flavors with modern techniques to create unique and exciting dishes. Catherine's passion for cooking began at a young age, and she has dedicated her life to perfecting her craft. She believes that food is a way to express creativity and connect with others, and she takes great pride in creating dishes that not only taste great, but also look beautiful. When she's not in the kitchen, Catherine enjoys practicing martial arts and playing the guitar."
+    },{
+      "id": "j6n4s",
+      "picture": "https://img.freepik.com/premium-photo/bearded-male-chefs-isolated-black_293990-93.jpg",
+      "name": "William Chen",
+      "experience_years": 12,
+      "recipe_count": 180,
+      "likes": 400,
+      "bio": "William Chen is a creative chef with 12 years of experience in the culinary arts. He specializes in farm-to-table cuisine, using fresh, locally-sourced ingredients to create delicious and healthy dishes. William's passion for cooking began at a young age, and he has spent his life exploring different flavors and techniques. He believes that cooking is an art form that should be both beautiful and delicious, and he takes great care in creating dishes that are both visually stunning and full of flavor. When he's not in the kitchen, William enjoys hiking and gardening."
+    },
+    {
+      "id": "m9p2t",
+      "picture": "https://www.mrporter.com/cms/ycm/resource/blob/1078182/0bff23b9b3ae4ec9b1222950d506aa16/78bc3945-6c79-4dd3-995f-5463af69b6e9-data.jpg",
+      "name": "Sophie Nguyen",
+      "experience_years": 5,
+      "recipe_count": 50,
+      "likes": 100,
+      "bio": "Sophie Nguyen is a talented young chef with 5 years of experience in the culinary world. She specializes in Vietnamese cuisine, and her dishes are known for their bold flavors and fresh ingredients. Sophie's passion for cooking began at a young age, and she has spent her life perfecting her craft. She believes that food is a way to connect with others and share culture, and she takes great pride in creating dishes that not only taste great, but also tell a story. When she's not in the kitchen, Sophie enjoys practicing yoga and traveling."}
+      ]
+
+

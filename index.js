@@ -14,6 +14,11 @@ app.get('/chef/:id', (req, res) => {
     res.send(singleChef)
 })
 
+const foods = require("./data/foods.json")
+app.get("/foods", (req, res) => {
+    res.send(foods)
+})
+
 app.listen(2000, (err) => {
     console.log(err)
 })
